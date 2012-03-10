@@ -11,7 +11,7 @@ With _INSA House Connector_ you enter your identification information once and y
 - Install the _.Net Framework 4.5 Beta_ from the [Microsoft website](http://www.microsoft.com/download/en/details.aspx?id=28978).
 - Install the _INSA House Connector_ using [this link](http://update.quentez.com/reslogin/setup.exe).
 
-The App contains an auto-updater so you won't have to worry about having to install new versions as they'll be released.
+The App contains an auto-updater so you won't have to worry about having to install new versions as they are released.
 
 At the moment, the program won't register itself to start with Windows. If you want that, you can add a shortcut to the tool in the **Startup** folder of the **Start Menu**.
 
