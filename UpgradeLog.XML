@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ResAutoLogin">
+</Property><Property Name="Solution File" Value="E:\Visual Studio 2010\Insa\ResAutoLogin2\ResAutoLogin.sln">
+</Property><Property Name="User Options File" Value="E:\Visual Studio 2010\Insa\ResAutoLogin2\ResAutoLogin.v11.suo">
+</Property><Property Name="Date" Value="Friday, March 09, 2012">
+</Property><Property Name="Time" Value="20:39 PM">
+</Property></Properties><Event ErrorLevel="3" Project="" Source="ResAutoLogin.sln" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="" Source="ResAutoLogin.sln" Description="File successfully backed up as E:\Visual Studio 2010\Insa\ResAutoLogin2\Backup\ResAutoLogin.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ResAutoLogin.v11.suo" Description="File successfully backed up as E:\Visual Studio 2010\Insa\ResAutoLogin2\Backup\ResAutoLogin.v11.suo">
+</Event><Event ErrorLevel="0" Project="" Source="ResAutoLogin.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ResAutoLogin.sln" Description="Converted">
+</Event></UpgradeLog>
