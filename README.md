@@ -6,6 +6,10 @@ This small Windows Executable aims at reducing the hassle of having to re-authen
 
 With _INSA House Connector_ you enter your identification information once and you're done.
 
+## Screenshot
+
+![INSA House Connector](http://dl.dropbox.com/u/7107918/github/resautologin/ResAutoLogin.png)
+
 ## How to install
 
 - Install the _.Net Framework 4.5 Beta_ from the [Microsoft website](http://www.microsoft.com/download/en/details.aspx?id=28978).
